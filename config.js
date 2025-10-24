@@ -13,7 +13,7 @@ const siteConfig = {
 const users = [
   {
     id: 0, // default author
-    username: "펀연구소",
+    username: "펀연구소소장",
     company: "weniv",
     position: "CEO",
     img: "img/user/profile-licat.png",
